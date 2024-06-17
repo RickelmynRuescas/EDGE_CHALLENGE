@@ -186,3 +186,5 @@ return distance;
     <li>O sistema estará pronto para iniciar a corrida quando o display LCD mostrar "Pronto para iniciar a corrida".</li>
     <li>Quando o corredor passar em frente ao sensor de ultrassom, a contagem do tempo será iniciada.</li>
     <li>
+    <h2>Simulador no Wokwi</h2>
+<a href="https://wokwi.com/projects/400955742313861121">https://wokwi.com/projects/400955742313861121</a>
